@@ -19,6 +19,7 @@ Features
 -   **Mode Switching:**
 
     -   **Sıralı (Ordered):** Users can sequentially navigate through numbers.
+        - **jkl**   
 
     -   **Karışık (Mixed):** Numbers are presented in a random order.
 
